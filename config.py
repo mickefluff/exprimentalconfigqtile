@@ -12,7 +12,7 @@ from libqtile import hook
 
 
 # Programs
-terminal = "st"
+terminal = "alacritty"
 web_browser = "firefox"
 #vscode = "code"
 
